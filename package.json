@@ -1,10 +1,13 @@
 {
-  "name": "react-native-honeywell-barcode-reader",
+  "name": "react-native-honeywell-scanner-mf",
   "description": "A barcode reader for Honeywell handheld devices like Honeywell EDA50K (tested)",
-  "version": "1.0.6",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "Duy Tran <tranquangduy7994@gmail.com>",
-  "repository": "duytq94/react-native-honeywell-barcode-reader",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duytq94/react-native-honeywell-barcode-reader.git"
+  },
   "keywords": [
     "honeywell",
     "barcode",
@@ -18,5 +21,12 @@
     "index.js"
   ],
   "license": "ISC",
-  "private": false
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/duytq94/react-native-honeywell-barcode-reader/issues"
+  },
+  "homepage": "https://github.com/duytq94/react-native-honeywell-barcode-reader#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
