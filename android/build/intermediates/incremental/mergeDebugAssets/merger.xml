@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Kilic\Documents\GitHub\react-native-honeywell-barcode-reader\android\src\main\assets"/><source path="C:\Users\Kilic\Documents\GitHub\react-native-honeywell-barcode-reader\android\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Kilic\Documents\GitHub\react-native-honeywell-barcode-reader\android\src\debug\assets"/></dataSet></merger>
